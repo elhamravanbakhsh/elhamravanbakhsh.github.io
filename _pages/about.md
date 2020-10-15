@@ -30,9 +30,11 @@ Selected Projects
 - Exploring generation task by Implementing a convolutional variational auto encoder and CGAN,
 
 
+
 **Machine Learning**
 
 - Assessing accuracy of a Face Recognition model using Eigenface, Fisherface and Laplacianface,
+
 
 
 **Miscellaneous**
