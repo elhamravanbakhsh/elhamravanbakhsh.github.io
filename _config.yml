@@ -79,13 +79,13 @@ analytics:
 # Site Author
 author:
   name             : "Elham Ravanbakhsh"
-  avatar           : "Elhamr.jpg"
+  avatar           : "https://elhamravanbakhsh.github.io/files/Elhamr.jpg"
   bio              : "Ph.D. student in Computer Engineering at Louisiana State University"
   location         : "CCT@LSU"
   employer         : 
   googlescholar    : 
   email            : "eravan1@lsu.edu"
-  CV               : "https://drive.google.com/file/d/1IYXJRUwy7hNbqyCO7AoodE2CCRd4OT09/view?usp=sharing"
+  CV               : "https://elhamravanbakhsh.github.io/files/Elham_Ravanbakhsh_CV.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
