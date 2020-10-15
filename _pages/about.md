@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Engineering at [Louisiana State University](lsu.edu) and a research assistant in [Center for Computation and Technology](cct.lsu.edu) under supervision of [Dr. J. Ramanujam](https://www.ece.lsu.edu/jxr/jxr.html). My primary reasearch area is artificial intelligence with specialty in computer vision. I have worked on variety of projects including Person Re-identification, Object detection, Instance Segmentation and Pose estimation. At Lsu, I have collabration with Herbarium and Phylogenetic department, developing deep learning models on multiple projects.
+I am a PhD student in Computer Engineering at [Louisiana State University](https://www.lsu.edu) and a research assistant in [Center for Computation and Technology](https://www.cct.lsu.edu) under supervision of [Dr. J. Ramanujam](https://www.ece.lsu.edu/jxr/jxr.html). My primary reasearch area is artificial intelligence with specialty in computer vision. I have worked on variety of projects including Person Re-identification, Object detection, Instance Segmentation and Pose estimation. At Lsu, I have collabration with Herbarium and Phylogenetic department, developing deep learning models on multiple projects.
 
 Education
 ------
