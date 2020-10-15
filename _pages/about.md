@@ -14,11 +14,11 @@ Education
 ------
 
 - **Ph.D. in Computer Engineering**,  Sep. 2019 - Current
-  Louisiana State University,
+- Louisiana State University,
 - **M.Sc. in Artificial Intelligence and Robotics**, Apr. 2018
-  Shahid Chamran University of Ahvaz, 
+- Shahid Chamran University of Ahvaz, 
 - **B.Sc. in Computer Engineering**, Jul. 2015
-Shahid Chamran University of Ahvaz, 
+- Shahid Chamran University of Ahvaz, 
 
 
 Selected Projects
