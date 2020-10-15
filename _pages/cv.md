@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-For the full list of academic publications, see my [CV](https://drive.google.com/file/d/15qV7ycu6JR2Rif8RpftKA0-F9mBZLMr0/view?usp=sharing).
+Please see my [CV](https://drive.google.com/file/d/15qV7ycu6JR2Rif8RpftKA0-F9mBZLMr0/view?usp=sharing).
 
 
