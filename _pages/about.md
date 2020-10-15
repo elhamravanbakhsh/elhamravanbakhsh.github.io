@@ -8,54 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Data Science Fellow](https://midas.umich.edu/fellows/) with the
-Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)) at the University of Michigan. Before that, I was McWilliams postdoctoral research fellow at the McWilliams Center for Cosmology in [Carnegie Mellon University](https://www.cmu.edu/). I received my Ph.D. in Physics and Scientific Computing from the [University of Michigan](https://www.umich.edu/), working with Prof. August Evrard on population modeling of the most massive gravitationally bound objects in our Universe. More specifically, I developed novel inference models and computational algorithms to study the constituents of our Universe and demystify the small-scale astrophysics and active member of the "data mining" and "data science for social good" communities.
+I am a PhD student in Computer Engineering at [Louisiana State University](lsu.edu) and a research assistant in [Center for Computation and Technology](cct.lsu.edu) under supervision of [Dr. J. Ramanujam](https://www.ece.lsu.edu/jxr/jxr.html). My primary reasearch area is artificial intelligence with specialty in computer vision. I have worked on variety of projects including Person Re-identification, Object detection, Instance Segmentation and Pose estimation. At Lsu, I have collabration with Herbarium and Phylogenetic department, developing deep learning models on multiple projects.
 
-
-My current research focuses on (1) developing strategies and methods to identify and mitigate algorithmic bias, (2) modeling and quantifying ML model prediction uncertinaties, (3) designing and implementing computational and data-driven tools to study complex systems, such as astronomical systems, urban mobility, and disasters, (4) developing data-driven solutions to guide policy- and decision-makers. On this site, you can find some information about my research and extracurricular activities. With [Danai Koutra](https://web.eecs.umich.edu/~dkoutra/), I have co-founded Michigan-Data Informed Cities for Everyone (M-DICE) collaboration that partners with cities and local governments to help them with designing and implementing data-driven solutions. I am also a co-Chair of Baryon Pasting collaboration that develops novel computational tools to facilitate modeling and analyzing large astronomical survey datasets.
-
-I was a [Schmidt Science Fellow](https://schmidtsciencefellows.org/) finalist, recipient of the [best student paper award](https://medium.com/syncedreview/kdd-2018-announces-best-paper-other-awards-4835ab8475a4) in KDD'18, an awardee of the Michigan Institute for Computational Discovery and Engineering ([MICDE](https://micde.umich.edu/about/)) fellowship, and recipient of >$400k grant funding. I am an active member of several international projects and collaborations, including the Dark Energy Survey([DES](https://www.darkenergysurvey.org/)), the COsmostatistics INitiative ([COIN](https://cosmostatistics-initiative.org/)), and [XMM-XXL](http://irfu.cea.fr/xxl) Consortium among others. I also volunteered for Statistics Without Borders ([SWB](https://swb.wildapricot.org/)). I am interested in implementing novel educational models to engage with students. With my colleagues at the [University of Michigan](https://www.umich.edu/), I built the first data science education platform, which teaches practical data science skills. Within this framework, not only do the students gain knowledge in-depth knowledge of data science, but they also make a positive social impact on the local communities. Last but not least, I am an advocate for data science for social good. 
-
-**World Economic Forum Report**: I contributed to [a report from the World Economic Forum](https://www.weforum.org/reports/digitizing-and-transforming-mobility-systems-lessons-from-the-detroit-region) featuring a data science project co-funded by MIDAS, U-M Transportation Research Institute (UMTRI), U-M College of Engineering and the Knight Foundation. The project is part of a larger Seamless Integrated Mobility effort that aims to transform mobility systems in Detroit, Ann Arbor and Windsor, MI. The project is one example of how data science can make a significant impact on policy making. 
-
-
-**Undergraduate/graduate students**: I am continually looking for dedicated students at the University of Michigan (*you*) who are interested in taking part in data science with social impact or astronomy projects. These projects involve a balance of theoretical, methodological, and data analysis work. Experience in theoretical physics, astronomy, statistics, or computer science is a plus but not a requirement. If you are looking for a project, feel free to email me.
-
-
-General Research Interest
+Education
 ------
-My general research interest goes beyond what I am doing for my Ph.D. and is not limited to Astronomy. Here is a non-exhaustive list of my research interest:
+
+- Ph.D. in Computer Engineering Louisiana State University, Sep. 2019 - Current
+- M.Sc. in Artificial Intelligence and Robotics Shahid Chamran University of Ahvaz, Apr. 2018
+- B.Sc. in Computer Engineering Shahid Chamran University of Ahvaz, Jul. 2015
 
 
-**Main Research**
+Selected Projects
+------
 
-- algorithmic bias and fairness,
-- computational inference,
-- Population Modeling of
+**Deep Learning**
 
-  - astronomical systems,
-  - urban mobility.
-  
-
-**Data Science for Social Good**
-
-- data-driven public policy and decision making,
-- service-learning,
-- education, and public outreach.
+- Pose-driven deep learning models for Person re-identification,
+- Designing a Joint face detection and gender recognition model using SSD network,
+- Developing a CNN model for detecting potential pollinators of herbarium specimens,
+- Building a character-level LSTM network to generate names and classification,
+- Exploring generation task by Implementing a convolutional variational auto encoder and CGAN,
 
 
-**Cosmology and Astronomy**
+**Machine Learning**
 
-- physics of clusters of galaxies, 
-- galaxy formation/evolution, 
-- cosmological probes,
-- formation and evolution of large-scale structures.
+- Assessing accuracy of a Face Recognition model using Eigenface, Fisherface and Laplacianface,
 
 
-**Miscellaneous** 
+**Miscellaneous**
 
-- topological and statistical properties of random fields,
-- network theory and its application,
-- non-perturbative methods.
-
+- Implementation of a simulator for an 8-stages pipeline,
 
