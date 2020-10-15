@@ -13,9 +13,12 @@ I am a PhD student in Computer Engineering at [Louisiana State University](lsu.
 Education
 ------
 
-- Ph.D. in Computer Engineering Louisiana State University, Sep. 2019 - Current
-- M.Sc. in Artificial Intelligence and Robotics Shahid Chamran University of Ahvaz, Apr. 2018
-- B.Sc. in Computer Engineering Shahid Chamran University of Ahvaz, Jul. 2015
+- **Ph.D. in Computer Engineering**,  Sep. 2019 - Current
+  Louisiana State University,
+- **M.Sc. in Artificial Intelligence and Robotics**, Apr. 2018
+  Shahid Chamran University of Ahvaz, 
+- **B.Sc. in Computer Engineering**, Jul. 2015
+Shahid Chamran University of Ahvaz, 
 
 
 Selected Projects
