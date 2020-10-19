@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Elham Ravanbakhsh"
@@ -49,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : googleda33335a8886f61e.html
+google_site_verification : "googleda33335a8886f61e.html"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
