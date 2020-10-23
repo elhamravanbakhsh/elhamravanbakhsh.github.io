@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Engineering at [Louisiana State University](https://www.lsu.edu) and a research assistant in [Center for Computation and Technology](https://www.cct.lsu.edu) under supervision of [Dr. J. Ramanujam](https://www.ece.lsu.edu/jxr/jxr.html). My primary reasearch area is artificial intelligence with specialty in computer vision. I have worked on variety of projects including Person Re-identification, Object Detection, Instance Segmentation and Pose Estimation. At Lsu, I have collaboration with Herbarium and biology departments, developing deep learning models on multiple projects.
+I am a PhD student in Computer Engineering at [Louisiana State University](https://www.lsu.edu) and a research assistant in [Center for Computation and Technology](https://www.cct.lsu.edu) under supervision of [Dr. J. Ramanujam](https://www.ece.lsu.edu/jxr/jxr.html). My primary reasearch area is artificial intelligence with specialty in computer vision. I have worked on variety of projects including Person Re-identification, Object Detection, Instance Segmentation and Pose Estimation. At Lsu, I have collaboration with Herbarium and Biology departments, developing deep learning models on multiple projects.
 
-With over 4 years extensive research on deep learning algorithms, I have gained pratical hands-on experience on several python libraries including Open-CV, Pandas, Matplotlib, Numpy, Scipy, Sickit-learn and frameworks including Pytorch, Tensorflow and Keras.  
+With over 4 years extensive research on deep learning algorithms, I have gained pratical hands-on experience on several python libraries including Open-CV, Pandas, Matplotlib, Numpy, Scipy, Sickit-Learn and frameworks including Pytorch, Tensorflow and Keras. I am passionate about solving real world challenges with quantitative methodologies and data-driven approaches. I have experience of either working independently or as a team member, with a record of communicating research to diverse audiences to positively influence change.   
 
 
 Education
